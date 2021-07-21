@@ -13,8 +13,8 @@
 <h2 align="center">Languages and Tools 🛠️</h2>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank"><img  alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrustimy&show_icons=true&locale=en&layout=compact" alt="shrustimy" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrustimy&show_icons=true&locale=en&layout=compact" alt="shrustimy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrustimy&show_icons=true&locale=en" alt="shrustimy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrustimy&" alt="shrustimy" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrustimy&show_icons=true&locale=en" alt="shrustimy" /></p>
+<h2 align="center">My Contribution Streak</h2>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrustimy&" alt="shrustimy" /></p>

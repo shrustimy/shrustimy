@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrusti M Yaligar</h1>
 <p><img align="right" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Gif" width="55%" /></p>
-<h3 align="center">A girl, love to explore and learn new things</h3>
+<h3 align="center">A girl, loves to explore and learn new things</h3>
 <br/>
 <h2 align="center">Languages and Tools 🛠️</h2>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank"><img  alt="Visual Studio Code" width="60px" height="60px" src=https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/vscode.svg />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> </p>

@@ -30,5 +30,5 @@
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrustimy&theme=gotham&show_icons=true&locale=en" alt="shrustimy" /></p>
-<h2 align="center">My Contribution Streak</h2>
+<h2 align="center">Contribution Streak</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrustimy&theme=gotham&" alt="shrustimy" /></p>

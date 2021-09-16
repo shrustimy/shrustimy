@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shrusti M Yaligar</h1>
+<h1 align="center">Hello 👋, I'm Shrusti M Yaligar</h1>
 <p><img align="right" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Gif" width="55%" /></p>
 <h3 align="center">A girl, loves to explore and learn new things</h3>
 <br/>

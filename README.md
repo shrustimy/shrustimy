@@ -23,6 +23,8 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrustimy&theme=gotham&show_icons=true&locale=en" alt="shrustimy" /></p>
 
+<h2 align="center">Contribution Streak</h2>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrustimy&theme=gotham&" alt="shrustimy" /></p>
 
 <h5 align="center">Connect with me on</h5>
 <p align="center">
@@ -33,14 +35,5 @@
  <!-- https://img.shields.io/badge/linkedin-%231E77B5.svg -->
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
-<h2 align="center">Contribution Streak</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrustimy&theme=gotham&" alt="shrustimy" /></p>

@@ -3,7 +3,16 @@
 <p align="center"><img  src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Gif"  /></p>
 <br/>
 <h2 align="center">Languages and Tools 🛠️</h2>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"><img  alt="Visual Studio Code" width="60px" height="60px" src=https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/vscode.svg />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <img width="60px"  src="https://img.icons8.com/color/2x/css3.png"> </p>
+<p align="center">  
+
+  <img  alt="Visual Studio Code" width="50px" height="60px" src=https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/vscode.svg />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="60"/> </a>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="60"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="60"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <!--<img width="60px"  src="https://img.icons8.com/color/2x/css3.png"> --> 
+  <img width="60px" src="https://img.icons8.com/fluent/50/000000/console.png"/> 
+  <img width="50px" src="https://img.icons8.com/color/2x/dart.png">  
+  <img width="50px" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></p>
 
 <br />
 

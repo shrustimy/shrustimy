@@ -11,8 +11,9 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="60"/> </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <!--<img width="60px"  src="https://img.icons8.com/color/2x/css3.png"> --> 
   <img width="60px" src="https://img.icons8.com/fluent/50/000000/console.png"/> 
-<!--   <img width="50px" src="https://img.icons8.com/color/2x/dart.png">  
-  <img width="50px" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></p> -->
+ <img width="50px" src="https://img.icons8.com/color/2x/dart.png">  
+  <img width="50px" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+  <img width="50px" src="https://img.icons8.com/color/50/000000/firebase.png"/></p> 
 
 <br />
 

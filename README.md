@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Shrusti M Yaligar</h1>
-<h3 align="center">A girl, loves to explore and learn new things</h3>
+<h3 align="center">I'm a fourth year computer science student at JSSATE , Bangalore . I'm interested in mobile application development in Flutter and I love problem solving.</h3>
 <p align="center"><img  src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Gif"  /></p>
 <br/>
 <h2 align="center">Languages and Tools 🛠️</h2>

@@ -1,16 +1,15 @@
 <h1 align="center">Hello 👋, I'm Shrusti M Yaligar</h1>
-<h3 align="center">I'm a fourth year computer science student at JSSATE , Bangalore . I'm interested in mobile application development in Flutter and I love problem solving.</h3>
+<h3 align="center">I'm a 2023 graduate in CSE from JSSATE , Bangalore . I love to explore and learn new technologies. I have done mobile application development in Flutter and I love problem solving.</h3>
 <p align="center"><img  src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Gif"  /></p>
 <a  href="https://shrustimy.github.io/"><p align="center">My portfolio website</p></a>
 <br/>
 <h2 align="center">Languages and Tools 🛠️</h2>
 <p align="center">  
-
-  <img  alt="Visual Studio Code" width="50px" height="60px" src=https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/vscode.svg />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="60"/> </a>   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="60"/> </a> 
+ 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="60"/>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="60"/>  
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="60"/> </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <!--<img width="60px"  src="https://img.icons8.com/color/2x/css3.png"> --> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>  <!--<img width="60px"  src="https://img.icons8.com/color/2x/css3.png"> --> 
   <img width="60px" src="https://img.icons8.com/fluent/50/000000/console.png"/> 
  <img width="50px" src="https://img.icons8.com/color/2x/dart.png">  
   <img width="50px" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
@@ -40,8 +39,8 @@
 <h5 align="center">Connect with me on</h5>
 <p align="center">
 <!--<a href="https://www.hackerrank.com/shrustimy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrustimy" height="30" width="40" /></a>-->
-<a href="https://www.linkedin.com/in/shrusti-yaligar-379599212/" target="_blank">
-<img src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" width="22px" />
+<a href="https://www.linkedin.com/in/shrusti-yaligar-379599212/" target="_blank"><!-- target="_blank" -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" width="22px" />
 </a>
  <!-- https://img.shields.io/badge/linkedin-%231E77B5.svg -->
 </p>

@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Shrusti M Yaligar</h1>
-<h3 align="center">I'm a 2023 graduate in CSE from JSSATEB, currently working as Software Development Engineer in Accenture in Automotive domain using C++ language. I love to explore and learn new technologies. I have done mobile application development in Flutter and I love problem solving.</h3>
+<h3 align="center">I'm a 2023 graduate in CSE from JSSATEB, currently working as Software Developer in Accenture in Automotive domain using C++ language, contributing to the opensource project "OpenBSW" of Accenture. I love to explore and learn new technologies. I have done mobile application development in Flutter and I love problem solving.</h3>
 <p align="center"><img  src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Gif"  /></p>
 <a  href="https://shrustimy.github.io/"><p align="center">My portfolio website</p></a>
 <br/>

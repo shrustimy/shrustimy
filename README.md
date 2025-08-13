@@ -15,7 +15,7 @@
   <img width="50px" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
   <img width="50px" src="https://img.icons8.com/color/50/000000/firebase.png"/></p> 
 
-<br />
+<!--<br />-->
 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrustimy&label=Profile%20views&color=0e75b6&style=flat" alt="shrustimy" /> </p>-->
@@ -27,22 +27,20 @@
 </p>-->
 
 
-<br>
+<!--<br>-->
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrustimy&theme=gotham&show_icons=true&locale=en&layout=compact" alt="shrustimy" /></p>
-
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrustimy&theme=gotham&show_icons=true&locale=en" alt="shrustimy" /></p> -->
 
 <!--<h2 align="center">Contribution Streak</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrustimy&theme=gotham&" alt="shrustimy" /></p> -->
-
 <h5 align="center">Connect with me on</h5>
 <p align="center">
 <!--<a href="https://www.hackerrank.com/shrustimy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrustimy" height="30" width="40" /></a>-->
 <a href="https://www.linkedin.com/in/shrusti-yaligar-379599212/" target="_blank"><!-- target="_blank" -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" width="22px" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 10px;" width="52px" />
 </a>
- <!-- https://img.shields.io/badge/linkedin-%231E77B5.svg -->
+<!--https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
+https://img.shields.io/badge/linkedin-%231E77B5.svg-->
 </p>
 
 

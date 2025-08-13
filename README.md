@@ -19,12 +19,12 @@
 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrustimy&label=Profile%20views&color=0e75b6&style=flat" alt="shrustimy" /> </p>-->
-<h2 align="center">Github Trophies</h2>
+<!--<h2 align="center">Github Trophies</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=shrustimy&row=2&column=4&margin-w=8&margin-h=8&theme=gruvbox&count_private=true"/>
   </a>
-</p>
+</p>-->
 
 
 <br>
